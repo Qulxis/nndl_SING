@@ -1,0 +1,7 @@
+librosa==0.6.0
+mir_eval==0.7
+numpy==1.19.5
+progressbar33==2.4
+rarfile==4.0
+tensorflow==1.8.0
+resampy==0.3.1
