@@ -1,0 +1,11 @@
+./data/MIR-1K/UndividedWavfile/fdps_1.wav
+./data/MIR-1K/UndividedWavfile/khair_3.wav
+./data/MIR-1K/UndividedWavfile/amy_3.wav
+./data/MIR-1K/UndividedWavfile/amy_4.wav
+./data/MIR-1K/UndividedWavfile/heycat_4.wav
+./data/MIR-1K/UndividedWavfile/bobon_4.wav
+./data/MIR-1K/UndividedWavfile/khair_2.wav
+./data/MIR-1K/UndividedWavfile/bobon_3.wav
+./data/MIR-1K/UndividedWavfile/abjones_5.wav
+./data/MIR-1K/UndividedWavfile/yifen_3.wav
+./data/MIR-1K/UndividedWavfile/Ani_3.wav
